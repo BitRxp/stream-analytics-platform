@@ -18,3 +18,5 @@ ENV/
 *.csv
 *.db
 /data/
+
+.env

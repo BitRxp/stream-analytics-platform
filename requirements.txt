@@ -1,0 +1,8 @@
+pandas
+sqlalchemy
+psycopg[binary]
+python-dotenv
+prefect
+python-dotenv
+pytest
+flake8
